@@ -3,8 +3,11 @@
 int main(void)
 {
   int i;
-	
+  int result;
+
   printf(" >>>>>start main function>>>>>> \n");
+  
+  result=develop();
 
   while(1)
   {
