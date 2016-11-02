@@ -2,7 +2,7 @@
 
 int develop(void)
 {
-	printf("this is a develop program \n");
+	printf("this is a develop program for study");
 
 }
 
